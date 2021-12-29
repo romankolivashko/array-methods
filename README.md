@@ -22,7 +22,7 @@
 
 ## Setup/Installation Requirements
 
-1. Clone the repository: $ git clone https://github.com/account/my-project
-2. Navigate to the my-project/ directory on your computer
+1. Clone the repository: `$ git clone https://github.com/romankolivashko/array-methods`
+2. Navigate to the array-methods/ directory on your computer
 3. Open index.html in a browser, launch DevTools to access console
  
